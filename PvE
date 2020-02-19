@@ -1,13 +1,20 @@
-title: PvE Rolls (SyM88)
-description: I hope this works
+title: SyM88 Rolls
+description:
 
-//Martyr's Retribution
+//          WEAPONS
 
-//notes: Fake Godroll Test
-dimwishlist:item=3850168899&perks=3096702027,3523296417
+
+//     
+
+
+//     GRENADE LAUNCHERS (special)
+
+//   Martyr's Retribution
+//notes: PvE Godroll!!
+dimwishlist:item=3850168899&perks=3300816228,3523296417
 dimwishlist:item=3850168899&perks=3300816228,588594999
 
-//notes: Almost!!!
+//notes:PvE Decent
 dimwishlist:item=3850168899&perks=3300816228
 dimwishlist:item=3850168899&perks=3523296417
 
@@ -17,3 +24,37 @@ Underdog: 205890336
 
 Demo: 3523296417
 MT: 588594999
+
+//     GRENADE LAUNCHERS (heavy)
+
+//     SIDEARMS (kinetic)
+
+//     SIDEARMS (energy)
+// Last Hope
+//notes:PvE Godroll!!!
+dimwishlist:item=3622137132&perks=445755707,1561002382,2779035018,2458213969
+dimwishlist:item=3622137132&perks=445755706,1561002382,2779035018,2458213969
+dimwishlist:item=3622137132&perks=445755705,1561002382,2779035018,2458213969
+dimwishlist:item=3622137132&perks=445755707,1885400500,2779035018,2458213969
+dimwishlist:item=3622137132&perks=445755706,1885400500,2779035018,2458213969
+dimwishlist:item=3622137132&perks=445755705,1885400500,2779035018,2458213969
+dimwishlist:item=3622137132&perks=445755707,3230963543,2779035018,2458213969
+dimwishlist:item=3622137132&perks=445755706,3230963543,2779035018,2458213969
+dimwishlist:item=3622137132&perks=445755705,3230963543,2779035018,2458213969
+dimwishlist:item=3622137132&perks=445755707,1087426260,2779035018,2458213969
+dimwishlist:item=3622137132&perks=445755706,1087426260,2779035018,2458213969
+dimwishlist:item=3622137132&perks=445755705,1087426260,2779035018,2458213969
+dimwishlist:item=3622137132&perks=445755707,1968497646,2779035018,2458213969
+dimwishlist:item=3622137132&perks=445755706,1968497646,2779035018,2458213969
+dimwishlist:item=3622137132&perks=445755705,1968497646,2779035018,2458213969
+dimwishlist:item=3622137132&perks=2779035018,2458213969
+
+// Last Hope
+//notes:PvE Decent
+dimwishlist:item=3622137132&perks=2779035018
+dimwishlist:item=3622137132&perks=2458213969
+
+
+
+//          ARMOUR
+
