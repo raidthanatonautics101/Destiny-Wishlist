@@ -2,10 +2,18 @@ title: PvE Rolls (SyM88)
 description: I hope this works
 
 //Martyr's Retribution
-//notes: Good
+
+//notes: Fake Godroll Test
+dimwishlist:item=3850168899&perks=3096702027,3523296417
+dimwishlist:item=3850168899&perks=3300816228,588594999
+
+//notes: Almost!!!
 dimwishlist:item=3850168899&perks=3300816228
 dimwishlist:item=3850168899&perks=3523296417
 
-//notes: Bad
-dimwishlist:item=3850168899&perks=3300816228,588594999
-dimwishlist:item=3850168899&perks=3523296417,588594999
+Auto: 3300816228
+genesis: 3096702027
+Underdog: 205890336
+
+Demo: 3523296417
+MT: 588594999
